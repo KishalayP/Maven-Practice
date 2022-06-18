@@ -1,0 +1,5 @@
+com\kishalay\product\bo\ProductBOImpl.class
+com\kishalay\product\dao\ProductDAOImpl.class
+com\kishalay\product\bo\ProductBO.class
+com\kishalay\product\dao\ProductDAO.class
+com\kishalay\product\dto\Product.class
